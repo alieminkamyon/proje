@@ -1,5 +1,14 @@
-import java.util.Scanner;
 
+
+
+
+
+
+
+
+
+
+import java.util.Scanner
 public class SinemaKayitSistemi {
     private static String[] filmler = new String[10]; 
     private static String[] filmTurleri = new String[10]; 
