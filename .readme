@@ -1,0 +1,38 @@
+Sinema Kayıt Sistemi
+Bu proje, bir sinema işletmesinin temel müşteri kaydı ve bilet işlemleri sistemini simüle eden bir konsol uygulamasıdır. Kullanıcı, filmleri ve müşterileri sisteme ekleyebilir, filmleri listeleyebilir ve bilet satış işlemlerini gerçekleştirebilir.
+
+Özellikler
+Film Ekleme: Kullanıcı, film adı, türü ve süresi gibi bilgileri girerek filmleri ekleyebilir.
+
+Film Listeleme: Sisteme eklenen tüm filmler, türleri ve süreleri ile birlikte listelenebilir.
+
+Müşteri Ekleme: Müşteriler adları ve e-posta adresleri ile sisteme kaydedilebilir.
+
+Müşteri Listeleme: Sisteme kaydedilen tüm müşteriler listelenebilir.
+
+Bilet Satışı: Bir müşteri bir film seçerek bilet satın alabilir.
+
+Bilet Listeleme: Satılan biletler, hangi müşterinin hangi filmi seçtiğiyle birlikte listeye dökülebilir.
+
+Kullanım
+Program çalıştırıldığında, kullanıcıya çeşitli seçenekler sunulur.
+
+Kullanıcı film ekleyebilir, müşteri ekleyebilir veya bilet satışı yapabilir.
+
+Film ve müşteri bilgileri sisteme kaydedildikten sonra, kullanıcı bunları listeleyebilir.
+
+Bilet satışı işlemi, bir müşteri ve film seçerek yapılabilir.
+
+Gereksinimler
+Java 8 ve üzeri: Bu proje, Java 8 ve daha yüksek sürümlerle çalışacak şekilde geliştirilmiştir.
+
+IDE veya terminal: Programı çalıştırmak için herhangi bir Java destekleyen IDE (örneğin IntelliJ IDEA, Eclipse) veya terminal kullanılabilir.
+
+Kurulum ve Çalıştırma
+Java'nın bilgisayarınızda kurulu olduğundan emin olun.
+
+Proje dosyasını indirin.
+
+IDE'nizde veya terminalde proje dosyasını açın.
+
+SinemaKayitSistemi.java dosyasını çalıştırarak projeyi başlatın.
