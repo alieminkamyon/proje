@@ -1,0 +1,2 @@
+# proje
+sinema kayıt sistemi
